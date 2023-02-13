@@ -38,9 +38,6 @@ if __name__ == "__main__":
     # Add a score of 19 for "Yan". Print `score_dict`.
     #### YOUR CODE HERE
 
-    # Calculate and print the average of all the scores in `score_dict`.
-    #### YOUR CODE HERE
-
     # Update the score for "Wei" to be 13. Print `score_dict`.
     #### YOUR CODE HERE
 
