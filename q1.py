@@ -21,24 +21,31 @@ def make_dictionary(keys_list, values_list):
     
     return #### YOUR CODE HERE
 
-# Apply `make_dictionary` to the arguments `names` and `scores`. Save the result
-# to a variable `score_dict`. Print `score_dict`.
-#### YOUR CODE HERE
+if __name__ == "__main__":
+    # Running tests: don't change this part!
+    import doctest
+    print("Running tests...")
+    doctest.testmod()
+    print("All tests have finished!")
 
-# Using `score_dict`, find and print the score for "Mohammed".
-#### YOUR CODE HERE
+    # Apply `make_dictionary` to the arguments `names` and `scores`. Save the
+    # result to a variable `score_dict`. Print `score_dict`.
+    #### YOUR CODE HERE
 
-# Add a score of 19 for "Yan". Print `score_dict`.
-#### YOUR CODE HERE
+    # Using `score_dict`, find and print the score for "Mohammed".
+    #### YOUR CODE HERE
 
-# Calculate and print the average of all the scores in `score_dict`.
-#### YOUR CODE HERE
+    # Add a score of 19 for "Yan". Print `score_dict`.
+    #### YOUR CODE HERE
 
-# Update the score for "Wei" to be 13. Print `score_dict`.
-#### YOUR CODE HERE
+    # Calculate and print the average of all the scores in `score_dict`.
+    #### YOUR CODE HERE
 
-# Nushi has just dropped the class. Delete "Nushi" and their score from
-# `score_dict`. Print `score_dict`.
-#### YOUR CODE HERE
+    # Update the score for "Wei" to be 13. Print `score_dict`.
+    #### YOUR CODE HERE
+
+    # Nushi has just dropped the class. Delete "Nushi" and their score from
+    # `score_dict`. Print `score_dict`.
+    #### YOUR CODE HERE
 
 
